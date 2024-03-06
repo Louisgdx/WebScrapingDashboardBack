@@ -1,4 +1,4 @@
-# LearningNavigator: A Personalized Learning Dashboard for Students
+# LearningNavigator : A Personalized Learning Dashboard for Students
 
 DASHBOARD BACKEND :
 
